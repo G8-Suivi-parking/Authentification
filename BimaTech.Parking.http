@@ -1,0 +1,6 @@
+@BimaTech.Parking_HostAddress = http://localhost:5230
+
+GET {{BimaTech.Parking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
