@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BimaTech.Parking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fcc83469c47a312f0c5fc93c1b50588c37bc3fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fc0b75a9d075aa1b5e4c784741cfe654c3d1b5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BimaTech.Parking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BimaTech.Parking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

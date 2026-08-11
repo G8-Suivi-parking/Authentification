@@ -48,7 +48,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "message": "Le package 'Microsoft.OpenApi' 2.0.0 présente une vulnérabilité de gravité élevé(e) connue, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc.",
       "projectPath": "C:\\Users\\gtabd\\Downloads\\BimaTech_Parking\\BimaTech.Parking\\BimaTech.Parking.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\gtabd\\Downloads\\BimaTech_Parking\\BimaTech.Parking\\BimaTech.Parking.csproj",
